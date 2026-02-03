@@ -1,0 +1,4 @@
+Excel de renge göre toplama yapmak için kullanılması 
+gereken VBA'dır. Bunun için alt+f11 e basıp giriş yapılmalıdır
+.Daha sonra insert - module gelin ve kodu yazın ekrandan ALT+Q
+ile çıkın. Excelle gelip kodu çalıştırın

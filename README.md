@@ -6,5 +6,5 @@ This code is used for numerical calculations.
 When calculating the days for example it is important that the 5th of the month is counted as 1 not 5.
 Color is another important point.
 A single color was chosen to draw attention.
-
+Calculations can be made on a monthly and annual basis.
 

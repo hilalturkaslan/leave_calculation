@@ -9,3 +9,4 @@ A single color was chosen to draw attention.
 Calculations can be made on a monthly and annual basis.
 Data analysis in probaly make HR analysis.
 This system can be used by both employees and HR department.
+

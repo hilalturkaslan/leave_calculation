@@ -9,5 +9,4 @@ A single color was chosen to draw attention.
 Calculations can be made on a monthly and annual basis.
 Data analysis in probaly make HR analysis.
 This system can be used by both employees and HR department.
-This system can be used employees for working in hybrid or remote
-
+This system can be used to allow employees to choose which work model they prefer and on what dates, whether in a hybrid or remote work model.

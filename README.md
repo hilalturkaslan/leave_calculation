@@ -11,4 +11,4 @@ Data analysis in probaly make HR analysis.
 This system can be used by both employees and HR department.
 This system can be used to allow employees to choose which work model they prefer and on what dates whether in a hybrid or remote work model.
 The system is open to development by both HR and users.
-add Streamlit with us frontend 
+A front-end can be added to the project using Streamlit.
